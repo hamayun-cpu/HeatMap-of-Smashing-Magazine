@@ -6,17 +6,16 @@
 
 http://smashingmagazine.com/
 
-![Alt text]()
+![Alt text](https://github.com/hamayun-cpu/HeatMap-of-Smashing-Magazine/blob/dev/screenshot.PNG?raw=true "Screenshot")
 
 ## Built With
 
 - HTML5 / CSS3
-[Grid, Flexbox, Float] Properties
+- [Grid, Flexbox, Float] Properties
 
 ## Live Demo
 
 [Live Demo Link](https://hamayun-cpu.github.io/HeatMap-of-Smashing-Magazine/)
-
 
 ## Getting Started
 
@@ -43,5 +42,3 @@ Contributions, issues and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
