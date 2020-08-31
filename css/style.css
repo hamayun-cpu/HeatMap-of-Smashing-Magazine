@@ -288,6 +288,7 @@ body {
 
 .person-of-week {
   padding: 50px;
+  margin-bottom: 60px;
 }
 
 .profile-img {
@@ -304,4 +305,12 @@ body {
 
 .w_100_p {
   width: 100%;
+}
+
+.pad {
+  padding: 50px 30px;
+}
+
+.h_280 {
+  height: 280px;
 }
