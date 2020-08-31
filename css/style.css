@@ -60,3 +60,8 @@ body {
 .b_c2 {
   background-color: rgb(87, 86, 86);
 }
+
+.b_radius_5 {
+  border-radius: 0.5rem;
+  border: none;
+}
