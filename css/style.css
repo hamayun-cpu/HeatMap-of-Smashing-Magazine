@@ -279,8 +279,29 @@ body {
 
 .meet-click {
   padding-top: 50px;
+  margin-bottom: 50px;
 }
 
 .h_380 {
   height: 380px;
+}
+
+.person-of-week {
+  padding: 50px;
+}
+
+.profile-img {
+  height: 180px;
+}
+
+.w_200 {
+  width: 200px;
+}
+
+.person-details {
+  padding-left: 20px;
+}
+
+.w_100_p {
+  width: 100%;
 }
