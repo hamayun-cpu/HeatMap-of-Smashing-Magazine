@@ -236,7 +236,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
 }
 
-.h_430 {
+.h_480 {
   height: 480px;
 }
 
@@ -263,4 +263,24 @@ body {
 .mar_l_r_auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.mar_top-70 {
+  margin-top: 70px;
+}
+
+.mar_bottom-70 {
+  margin-bottom: 70px;
+}
+
+.h_700 {
+  height: 800px;
+}
+
+.meet-click {
+  padding-top: 50px;
+}
+
+.h_380 {
+  height: 380px;
 }
