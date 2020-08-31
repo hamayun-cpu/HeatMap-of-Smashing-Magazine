@@ -94,18 +94,73 @@ body {
 }
 
 .intro {
-  left: 600px;
-  width: 300px;
+  left: 520px;
+  width: 400px;
   text-align: center;
-}
-.intro h1 {
-  padding: 0;
-  margin: 0;
 }
 
 .seriously-red {
-  left: 1100px;
+  left: 1160px;
+  width: 240px;
 }
 
-.intro {
+.h_60 {
+  height: 60px;
+}
+
+.w_400 {
+  width: 400px;
+}
+
+.w_200 {
+  width: 200px;
+}
+
+.marg_auto {
+  margin: 0 auto;
+}
+
+.w_60 {
+  width: 60px;
+}
+
+.w_160 {
+  width: 160px;
+}
+
+.trans_15 {
+  transform: rotate(-15deg);
+}
+
+.trans_15:hover {
+  transform: rotate(0deg);
+  transition: 0.2s ease-in;
+  cursor: pointer;
+}
+
+.inside_cont {
+  height: 60%;
+  width: 80%;
+}
+
+.mar_clock {
+  margin: 27% auto;
+}
+
+.top_div {
+  width: 40%;
+  height: 5%;
+}
+
+.h_100 {
+  height: 100%;
+}
+
+.box {
+  height: 75px;
+  width: 75px;
+}
+
+.mar_top {
+  margin-top: 10px;
 }
