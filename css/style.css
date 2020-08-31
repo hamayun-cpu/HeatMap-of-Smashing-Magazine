@@ -65,6 +65,10 @@ body {
   background-color: rgb(163, 159, 159);
 }
 
+.b_c4 {
+  background-color: #d4d4d4;
+}
+
 .b_radius_5 {
   border-radius: 0.5rem;
   border: none;
@@ -89,8 +93,8 @@ body {
   position: absolute;
 }
 
-.top-20 {
-  top: 20%;
+.top-15 {
+  top: 15%;
 }
 
 .intro {
@@ -147,6 +151,10 @@ body {
   margin: 27% auto;
 }
 
+.mar_clock2 {
+  margin: 7% auto;
+}
+
 .top_div {
   width: 40%;
   height: 5%;
@@ -163,4 +171,54 @@ body {
 
 .mar_top {
   margin-top: 10px;
+}
+
+.mar_top-90 {
+  margin-top: 90px;
+}
+
+.title-latest-art {
+  width: 100%;
+}
+
+.title-latest-art1 {
+  width: 100%;
+}
+
+.d-inline-b {
+  display: inline-block;
+}
+
+.title-latest-art2 {
+  width: 40%;
+}
+
+.title-latest-comment {
+  width: 40%;
+  margin: 0 0 15px 30px;
+}
+
+.mar_top-5 {
+  margin-top: 5px;
+}
+
+.h_30 {
+  height: 30px;
+}
+
+.align_items_c {
+  align-items: center;
+}
+
+.cat12 {
+  width: 10%;
+}
+
+.cat3 {
+  width: 20%;
+}
+
+.arrow {
+  width: 10%;
+  margin-top: 10%;
 }
