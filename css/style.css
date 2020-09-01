@@ -314,3 +314,37 @@ body {
 .h_280 {
   height: 280px;
 }
+
+.trans_80 {
+  transform: rotate(80deg);
+}
+
+.mar_bottom-90 {
+  margin-bottom: 90px;
+}
+
+.h_60-p {
+  height: 70%;
+}
+
+.book {
+  padding-left: 50px;
+}
+
+.w_60-p {
+  width: 60%;
+}
+
+.w_40-p {
+  width: 20%;
+}
+
+.h_340 {
+  height: 340px;
+}
+
+.trans_80:hover {
+  transform: rotate(90deg);
+  transition: 0.2s ease-in;
+  cursor: pointer;
+}
