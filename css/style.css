@@ -116,10 +116,6 @@ body {
   width: 400px;
 }
 
-.w_200 {
-  width: 200px;
-}
-
 .marg_auto {
   margin: 0 auto;
 }
@@ -299,12 +295,22 @@ body {
   width: 200px;
 }
 
+.bor_rad_rit {
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  border: none;
+}
+
 .person-details {
   padding-left: 20px;
 }
 
 .w_100_p {
   width: 100%;
+}
+
+.w_80_p {
+  width: 80%;
 }
 
 .pad {
@@ -347,4 +353,26 @@ body {
   transform: rotate(90deg);
   transition: 0.2s ease-in;
   cursor: pointer;
+}
+
+.mar_t_b_l_r {
+  margin: 40px;
+}
+
+.col_gap_less {
+  column-gap: 2%;
+}
+
+.h_830 {
+  height: 830px;
+}
+
+.bor_rad_lef {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  border: none;
+}
+
+.h_730 {
+  height: 730px;
 }
