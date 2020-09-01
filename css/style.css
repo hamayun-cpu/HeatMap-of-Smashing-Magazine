@@ -376,3 +376,16 @@ body {
 .h_730 {
   height: 730px;
 }
+
+.w_90 {
+  width: 90px;
+}
+
+.space-arround {
+  justify-content: space-around;
+}
+
+.img-left,
+.img-right {
+  width: 20%;
+}
