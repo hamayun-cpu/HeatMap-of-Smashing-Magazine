@@ -6,7 +6,7 @@
 
 http://smashingmagazine.com/
 
-![Alt text](https://github.com/hamayun-cpu/HeatMap-of-Smashing-Magazine/blob/dev/screenshot.PNG?raw=true "Screenshot")
+![Alt text](https://github.com/hamayun-cpu/HeatMap-of-Smashing-Magazine/blob/master/screenshot.PNG)
 
 ## Built With
 
