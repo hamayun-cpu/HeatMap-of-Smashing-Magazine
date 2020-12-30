@@ -15,7 +15,7 @@ http://smashingmagazine.com/
 
 ## Live Demo
 
-[Live Demo Link](https://hamayun-cpu.github.io/HeatMap-of-Smashing-Magazine/)
+[Live Demo Link](https://rawcdn.githack.com/hamayun-cpu/HeatMap-of-Smashing-Magazine/3bfc84047609b71d90116635f4b759a7f6fb578b/index.html)
 
 ## Getting Started
 
